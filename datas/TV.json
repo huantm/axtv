@@ -1,8 +1,8 @@
 {
-    "notice": "欢迎使用",
+    "notice": "欢迎使用，本软件仅供学习交流",
     "spider": "https://cnb.cool/fish2018/xs/-/git/raw/main/spider.jar",
     "wallpaper": "https://img.naixiai.cn/2026/wallpapers/home_clean.jpg",
-    "logo": "https://img.naixiai.cn/2026/06/18/IMG_6638.jpeg",
+    "logo": "",
     "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
     "sites": [
         {
