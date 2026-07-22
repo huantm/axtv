@@ -17,18 +17,6 @@
             "category": "综合"
         },
         {
-            "key": "采集合集py",
-            "name": "🦋采集合集(py) ",
-            "type": 3,
-            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/lz/py/采集合集.py",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "playerType": 2,
-            "ext": "0"
-        },
-        {
             "key": "YK",
             "name": "🦋 优酷视频.py ",
             "type": 3,
@@ -2496,7 +2484,7 @@
     ],
     "lives": [
         {
-            "name": "🦋 老杨TV ",
+            "name": "🦋 TV ",
             "type": 0,
             "url": "https://ghfast.top/https://raw.githubusercontent.com/GodLike631/Ly/refs/heads/Live/datas/custom_lives.m3u",
             "ua": "okhttp/5.3.2"
