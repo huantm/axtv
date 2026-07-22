@@ -2,8 +2,8 @@
     "notice": "欢迎使用",
     "spider": "https://cnb.cool/fish2018/xs/-/git/raw/main/spider.jar",
     "wallpaper": "https://img.naixiai.cn/2026/wallpapers/home_clean.jpg",
-    "logo": "",
-    "danmaku": "http://127.0.0.1:9678/proxy?do=danmaku&name={name}&episode={episode}",
+    "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
+    "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
     "sites": [
         {
             "key": "热播影视",
