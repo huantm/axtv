@@ -852,16 +852,6 @@
             "category": "综合"
         },
         {
-            "key": "Nostr2",
-            "name": "🦋 版本202607141117",
-            "type": 3,
-            "api": "csp_Nostr",
-            "homePage": "https://cnb.cool/fish2035/lib/-/git/raw/main/test.min.html",
-            "ext": "",
-            "category": "综合",
-            "searchable": 1
-        },
-        {
             "key": "本地",
             "name": "🦋 本地 • 视频",
             "type": 3,
@@ -1712,28 +1702,6 @@
                 "type": "rect",
                 "ratio": 1.597
             },
-            "ext": "",
-            "category": "综合"
-        },
-        {
-            "key": "版本信息",
-            "name": "🦋 版本 • 信息",
-            "type": 3,
-            "api": "csp_Market",
-            "searchable": 0,
-            "changeable": 0,
-            "indexs": 0,
-            "ext": "https://9877.kstore.space/single.json",
-            "category": "综合"
-        },
-        {
-            "key": "push_agent",
-            "name": "🦋 手机 • 推送",
-            "type": 3,
-            "api": "csp_Push",
-            "searchable": 0,
-            "filterable": 0,
-            "changeable": 0,
             "ext": "",
             "category": "综合"
         },
